@@ -4,6 +4,7 @@
 /part2-notes/node_modules
 /phonebook/node_modules
 /rendering-collections/node_modules
+/countries/node_modules
 /.pnp
 .pnp.js
 

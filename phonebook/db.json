@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Arto Karhunen",
+      "number": "358432333846",
+      "id": 1
+    },
+    {
+      "name": "Aino Rintala",
+      "number": "358349253904",
+      "id": 2
+    },
+    {
+      "name": "Joona Leikkonen",
+      "number": "358343299481",
+      "id": 3
+    },
+    {
+      "name": "Hannu Porvonen",
+      "number": "358354924009",
+      "id": 4
+    }
+  ]
+}

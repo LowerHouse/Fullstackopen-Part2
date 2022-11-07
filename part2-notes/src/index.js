@@ -1,5 +1,10 @@
 import ReactDOM from 'react-dom/client'
 import App from './App'
+import axios from 'axios'
+
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />)
+
 
 const notes = [
   {
@@ -21,7 +26,3 @@ const notes = [
     important: true
   }
 ]
-
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <App notes={notes} />
-)
